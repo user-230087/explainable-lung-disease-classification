@@ -45,7 +45,7 @@ Training accuracy went from **83.6%** after epoch 1 to **98.3%** after epoch 10.
 
 <p align="center">
   <img src="images/confusion_matrix.png" width="45%">
-  <img src="images/ig_heatmap.png" width="45%">
+  <img src="images/sample_predictions.png" width="45%">
 </p>
 
 ## Repository Structure
